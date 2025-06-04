@@ -6,8 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/daodao97/chatmcp/releases/download/v0.0.59/chatmcp-windows-x64.zip",
-            "hash": "08b98574a4f50be604711444e67464aea1f5d31e9269624bc816d8593f6826e0",
-            "extract_dir": "zed-release"
+            "hash": "08b98574a4f50be604711444e67464aea1f5d31e9269624bc816d8593f6826e0"
         }
     },
     "bin": "chatmcp.exe",
@@ -20,7 +19,6 @@
   "checkver": {
     "url": "https://api.github.com/repos/daodao97/chatmcp/releases/latest",
     "jsonpath": "$.tag_name",
-    "regex": "^(\\d+)$"
     "regex": "^([\\d.]+)$"   
   },
     "autoupdate": {
