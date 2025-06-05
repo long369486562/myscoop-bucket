@@ -19,7 +19,7 @@
   "checkver": {
     "url": "https://api.github.com/repos/daodao97/chatmcp/releases/latest",
     "jsonpath": "$.tag_name",
-    "regex": "^([\\d.]+)$"   
+    "regex": "^v(\d+\.\d+\.\d+)$"   
   },
     "autoupdate": {
 	"url": "https://github.com/daodao97/chatmcp/releases/download/v$version/chatmcp-windows-x64.zip",
