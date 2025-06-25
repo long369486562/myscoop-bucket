@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/daodao97/chatmcp/releases/download/v0.0.68/chatmcp-0.0.68-windows.zip",
-            "hash": "b6c923fff1dbdb41aefded128266e7c5722ba43f8fc93a108b96526ceead8de8"
+            "hash": "92b5c483621d43545bd4cff4511d84e02d1cfe58e022ac4617372a7735d0e74b"
         }
     },
     "bin": "chatmcp.exe",
